@@ -6,6 +6,7 @@ public class Erick {
 		
 		/*Escreve texto no console*/
 		System.out.println("Primeiro programa em Java");
+		System.out.println("Vamos começar");
 		
 		
 	}
